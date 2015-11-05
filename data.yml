@@ -1,0 +1,338 @@
+idf1:
+  chassis_mod: EX4300-48P
+  chassis_type: stackable
+  interfaces:
+    physical:
+      0:
+        0:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          4: {is_bundled: false, is_linked: false, port: 4}
+          5: {is_bundled: false, is_linked: false, port: 5}
+          6: {is_bundled: false, is_linked: false, port: 6}
+          7: {is_bundled: false, is_linked: false, port: 7}
+          8: {is_bundled: false, is_linked: false, port: 8}
+          9: {is_bundled: false, is_linked: false, port: 9}
+          10: {is_bundled: false, is_linked: false, port: 10}
+          11: {is_bundled: false, is_linked: false, port: 11}
+          12: {is_bundled: false, is_linked: false, port: 12}
+          13: {is_bundled: false, is_linked: false, port: 13}
+          14: {is_bundled: false, is_linked: false, port: 14}
+          15: {is_bundled: false, is_linked: false, port: 15}
+          16: {is_bundled: false, is_linked: false, port: 16}
+          17: {is_bundled: false, is_linked: false, port: 17}
+          18: {is_bundled: false, is_linked: false, port: 18}
+          19: {is_bundled: false, is_linked: false, port: 19}
+          20: {is_bundled: false, is_linked: false, port: 20}
+          21: {is_bundled: false, is_linked: false, port: 21}
+          22: {is_bundled: false, is_linked: false, port: 22}
+          23: {is_bundled: false, is_linked: false, port: 23}
+          24: {is_bundled: false, is_linked: false, port: 24}
+          25: {is_bundled: false, is_linked: false, port: 25}
+          26: {is_bundled: false, is_linked: false, port: 26}
+          27: {is_bundled: false, is_linked: false, port: 27}
+          28: {is_bundled: false, is_linked: false, port: 28}
+          29: {is_bundled: false, is_linked: false, port: 29}
+          30: {is_bundled: false, is_linked: false, port: 30}
+          31: {is_bundled: false, is_linked: false, port: 31}
+          32: {is_bundled: false, is_linked: false, port: 32}
+          33: {is_bundled: false, is_linked: false, port: 33}
+          34: {is_bundled: false, is_linked: false, port: 34}
+          35: {is_bundled: false, is_linked: false, port: 35}
+          36: {is_bundled: false, is_linked: false, port: 36}
+          37: {is_bundled: false, is_linked: false, port: 37}
+          38: {is_bundled: false, is_linked: false, port: 38}
+          39: {is_bundled: false, is_linked: false, port: 39}
+          40: {is_bundled: false, is_linked: false, port: 40}
+          41: {is_bundled: false, is_linked: false, port: 41}
+          42: {is_bundled: false, is_linked: false, port: 42}
+          43: {is_bundled: false, is_linked: false, port: 43}
+          44: {is_bundled: false, is_linked: false, port: 44}
+          45: {is_bundled: false, is_linked: false, port: 45}
+          46: {is_bundled: false, is_linked: false, port: 46}
+          47: {is_bundled: false, is_linked: false, port: 47}
+          has_aux: false
+          module_mod: EX4300-48P
+          module_type: native
+        1:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          has_aux: false
+          module_mod: EX4300-UM-4XQSFP
+          module_type: builtin
+        2:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          has_aux: false
+          module_mod: EX4300-EM-4XSFP
+          module_type: expan
+        fpc_mod: EX4300-48P
+  is_vc: false
+  system_type: idf
+idf2:
+  chassis_mod: EX4300-32F
+  chassis_type: stackable
+  interfaces:
+    physical:
+      0:
+        0:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          4: {is_bundled: false, is_linked: false, port: 4}
+          5: {is_bundled: false, is_linked: false, port: 5}
+          6: {is_bundled: false, is_linked: false, port: 6}
+          7: {is_bundled: false, is_linked: false, port: 7}
+          8: {is_bundled: false, is_linked: false, port: 8}
+          9: {is_bundled: false, is_linked: false, port: 9}
+          10: {is_bundled: false, is_linked: false, port: 10}
+          11: {is_bundled: false, is_linked: false, port: 11}
+          12: {is_bundled: false, is_linked: false, port: 12}
+          13: {is_bundled: false, is_linked: false, port: 13}
+          14: {is_bundled: false, is_linked: false, port: 14}
+          15: {is_bundled: false, is_linked: false, port: 15}
+          16: {is_bundled: false, is_linked: false, port: 16}
+          17: {is_bundled: false, is_linked: false, port: 17}
+          18: {is_bundled: false, is_linked: false, port: 18}
+          19: {is_bundled: false, is_linked: false, port: 19}
+          20: {is_bundled: false, is_linked: false, port: 20}
+          21: {is_bundled: false, is_linked: false, port: 21}
+          22: {is_bundled: false, is_linked: false, port: 22}
+          23: {is_bundled: false, is_linked: false, port: 23}
+          24: {is_bundled: false, is_linked: false, port: 24}
+          25: {is_bundled: false, is_linked: false, port: 25}
+          26: {is_bundled: false, is_linked: false, port: 26}
+          27: {is_bundled: false, is_linked: false, port: 27}
+          28: {is_bundled: false, is_linked: false, port: 28}
+          29: {is_bundled: false, is_linked: false, port: 29}
+          30: {is_bundled: false, is_linked: false, port: 30}
+          31: {is_bundled: false, is_linked: false, port: 31}
+          32: {is_aux: true, is_bundled: false, is_linked: false, port: 32}
+          33: {is_aux: true, is_bundled: false, is_linked: false, port: 33}
+          34: {is_aux: true, is_bundled: false, is_linked: false, port: 34}
+          35: {is_aux: true, is_bundled: false, is_linked: false, port: 35}
+          aux_mod: EX4300-UM-4XSFPP
+          aux_type: builtin
+          has_aux: true
+          module_mod: EX4300-32F
+          module_type: native
+        1:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          has_aux: false
+          module_mod: EX4300-UM-2XQSFP
+          module_type: builtin
+        2:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          4: {is_bundled: false, is_linked: false, port: 4}
+          5: {is_bundled: false, is_linked: false, port: 5}
+          6: {is_bundled: false, is_linked: false, port: 6}
+          7: {is_bundled: false, is_linked: false, port: 7}
+          has_aux: false
+          module_mod: EX4300-EM-8XSFP
+          module_type: expan
+        fpc_mod: EX4300-32F
+  is_vc: false
+  system_type: idf
+idf3:
+  chassis_mod: Virtual_Chassis
+  chassis_type: stackable
+  interfaces:
+    physical:
+      0:
+        0:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          4: {is_bundled: false, is_linked: false, port: 4}
+          5: {is_bundled: false, is_linked: false, port: 5}
+          6: {is_bundled: false, is_linked: false, port: 6}
+          7: {is_bundled: false, is_linked: false, port: 7}
+          8: {is_bundled: false, is_linked: false, port: 8}
+          9: {is_bundled: false, is_linked: false, port: 9}
+          10: {is_bundled: false, is_linked: false, port: 10}
+          11: {is_bundled: false, is_linked: false, port: 11}
+          12: {is_bundled: false, is_linked: false, port: 12}
+          13: {is_bundled: false, is_linked: false, port: 13}
+          14: {is_bundled: false, is_linked: false, port: 14}
+          15: {is_bundled: false, is_linked: false, port: 15}
+          16: {is_bundled: false, is_linked: false, port: 16}
+          17: {is_bundled: false, is_linked: false, port: 17}
+          18: {is_bundled: false, is_linked: false, port: 18}
+          19: {is_bundled: false, is_linked: false, port: 19}
+          20: {is_bundled: false, is_linked: false, port: 20}
+          21: {is_bundled: false, is_linked: false, port: 21}
+          22: {is_bundled: false, is_linked: false, port: 22}
+          23: {is_bundled: false, is_linked: false, port: 23}
+          24: {is_bundled: false, is_linked: false, port: 24}
+          25: {is_bundled: false, is_linked: false, port: 25}
+          26: {is_bundled: false, is_linked: false, port: 26}
+          27: {is_bundled: false, is_linked: false, port: 27}
+          28: {is_bundled: false, is_linked: false, port: 28}
+          29: {is_bundled: false, is_linked: false, port: 29}
+          30: {is_bundled: false, is_linked: false, port: 30}
+          31: {is_bundled: false, is_linked: false, port: 31}
+          32: {is_aux: true, is_bundled: false, is_linked: false, port: 32}
+          33: {is_aux: true, is_bundled: false, is_linked: false, port: 33}
+          34: {is_aux: true, is_bundled: false, is_linked: false, port: 34}
+          35: {is_aux: true, is_bundled: false, is_linked: false, port: 35}
+          aux_mod: EX4300-UM-4XSFPP
+          aux_type: builtin
+          has_aux: true
+          module_mod: EX4300-32F
+          module_type: native
+        1:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          has_aux: false
+          module_mod: EX4300-UM-2XQSFP
+          module_type: builtin
+        2:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          4: {is_bundled: false, is_linked: false, port: 4}
+          5: {is_bundled: false, is_linked: false, port: 5}
+          6: {is_bundled: false, is_linked: false, port: 6}
+          7: {is_bundled: false, is_linked: false, port: 7}
+          has_aux: false
+          module_mod: EX4300-EM-8XSFP
+          module_type: expan
+        fpc_mod: EX4300-32F
+        vc_priority: 255
+      1:
+        0:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          4: {is_bundled: false, is_linked: false, port: 4}
+          5: {is_bundled: false, is_linked: false, port: 5}
+          6: {is_bundled: false, is_linked: false, port: 6}
+          7: {is_bundled: false, is_linked: false, port: 7}
+          8: {is_bundled: false, is_linked: false, port: 8}
+          9: {is_bundled: false, is_linked: false, port: 9}
+          10: {is_bundled: false, is_linked: false, port: 10}
+          11: {is_bundled: false, is_linked: false, port: 11}
+          12: {is_bundled: false, is_linked: false, port: 12}
+          13: {is_bundled: false, is_linked: false, port: 13}
+          14: {is_bundled: false, is_linked: false, port: 14}
+          15: {is_bundled: false, is_linked: false, port: 15}
+          16: {is_bundled: false, is_linked: false, port: 16}
+          17: {is_bundled: false, is_linked: false, port: 17}
+          18: {is_bundled: false, is_linked: false, port: 18}
+          19: {is_bundled: false, is_linked: false, port: 19}
+          20: {is_bundled: false, is_linked: false, port: 20}
+          21: {is_bundled: false, is_linked: false, port: 21}
+          22: {is_bundled: false, is_linked: false, port: 22}
+          23: {is_bundled: false, is_linked: false, port: 23}
+          24: {is_bundled: false, is_linked: false, port: 24}
+          25: {is_bundled: false, is_linked: false, port: 25}
+          26: {is_bundled: false, is_linked: false, port: 26}
+          27: {is_bundled: false, is_linked: false, port: 27}
+          28: {is_bundled: false, is_linked: false, port: 28}
+          29: {is_bundled: false, is_linked: false, port: 29}
+          30: {is_bundled: false, is_linked: false, port: 30}
+          31: {is_bundled: false, is_linked: false, port: 31}
+          32: {is_aux: true, is_bundled: false, is_linked: false, port: 32}
+          33: {is_aux: true, is_bundled: false, is_linked: false, port: 33}
+          34: {is_aux: true, is_bundled: false, is_linked: false, port: 34}
+          35: {is_aux: true, is_bundled: false, is_linked: false, port: 35}
+          aux_mod: EX4300-UM-4XSFPP
+          aux_type: builtin
+          has_aux: true
+          module_mod: EX4300-32F
+          module_type: native
+        1:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          has_aux: false
+          module_mod: EX4300-UM-2XQSFP
+          module_type: builtin
+        fpc_mod: EX4300-32F
+        vc_priority: 255
+      2:
+        0:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          4: {is_bundled: false, is_linked: false, port: 4}
+          5: {is_bundled: false, is_linked: false, port: 5}
+          6: {is_bundled: false, is_linked: false, port: 6}
+          7: {is_bundled: false, is_linked: false, port: 7}
+          8: {is_bundled: false, is_linked: false, port: 8}
+          9: {is_bundled: false, is_linked: false, port: 9}
+          10: {is_bundled: false, is_linked: false, port: 10}
+          11: {is_bundled: false, is_linked: false, port: 11}
+          12: {is_bundled: false, is_linked: false, port: 12}
+          13: {is_bundled: false, is_linked: false, port: 13}
+          14: {is_bundled: false, is_linked: false, port: 14}
+          15: {is_bundled: false, is_linked: false, port: 15}
+          16: {is_bundled: false, is_linked: false, port: 16}
+          17: {is_bundled: false, is_linked: false, port: 17}
+          18: {is_bundled: false, is_linked: false, port: 18}
+          19: {is_bundled: false, is_linked: false, port: 19}
+          20: {is_bundled: false, is_linked: false, port: 20}
+          21: {is_bundled: false, is_linked: false, port: 21}
+          22: {is_bundled: false, is_linked: false, port: 22}
+          23: {is_bundled: false, is_linked: false, port: 23}
+          24: {is_bundled: false, is_linked: false, port: 24}
+          25: {is_bundled: false, is_linked: false, port: 25}
+          26: {is_bundled: false, is_linked: false, port: 26}
+          27: {is_bundled: false, is_linked: false, port: 27}
+          28: {is_bundled: false, is_linked: false, port: 28}
+          29: {is_bundled: false, is_linked: false, port: 29}
+          30: {is_bundled: false, is_linked: false, port: 30}
+          31: {is_bundled: false, is_linked: false, port: 31}
+          32: {is_bundled: false, is_linked: false, port: 32}
+          33: {is_bundled: false, is_linked: false, port: 33}
+          34: {is_bundled: false, is_linked: false, port: 34}
+          35: {is_bundled: false, is_linked: false, port: 35}
+          36: {is_bundled: false, is_linked: false, port: 36}
+          37: {is_bundled: false, is_linked: false, port: 37}
+          38: {is_bundled: false, is_linked: false, port: 38}
+          39: {is_bundled: false, is_linked: false, port: 39}
+          40: {is_bundled: false, is_linked: false, port: 40}
+          41: {is_bundled: false, is_linked: false, port: 41}
+          42: {is_bundled: false, is_linked: false, port: 42}
+          43: {is_bundled: false, is_linked: false, port: 43}
+          44: {is_bundled: false, is_linked: false, port: 44}
+          45: {is_bundled: false, is_linked: false, port: 45}
+          46: {is_bundled: false, is_linked: false, port: 46}
+          47: {is_bundled: false, is_linked: false, port: 47}
+          has_aux: false
+          module_mod: EX4300-48P
+          module_type: native
+        1:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          has_aux: false
+          module_mod: EX4300-UM-4XQSFP
+          module_type: builtin
+        2:
+          0: {is_bundled: false, is_linked: false, port: 0}
+          1: {is_bundled: false, is_linked: false, port: 1}
+          2: {is_bundled: false, is_linked: false, port: 2}
+          3: {is_bundled: false, is_linked: false, port: 3}
+          has_aux: false
+          module_mod: EX4300-EM-4XSFP
+          module_type: expan
+        fpc_mod: EX4300-48P
+        vc_priority: 10
+  is_vc: true
+  system_type: idf
